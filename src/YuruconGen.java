@@ -122,5 +122,5 @@ public class YuruconGen {
 		System.out.print(gen.S+" "+gen.C+" "+gen.X);
 		System.out.print("\r\n");
 	}
-
+///Test
 }
