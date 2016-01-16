@@ -7,6 +7,7 @@ public class YuruconGen {
 	private int M;
 	private char[][] board = null;
 	private int S,C,X;
+	private int TETS;
 	
 	public YuruconGen(int N){
 		this.N = N;
